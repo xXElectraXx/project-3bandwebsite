@@ -9,7 +9,8 @@ ul {
 }
 
 nav {
-  background-color: aqua;
+  background-color: #c11d64;
+  text white;
 }
 h1 {
   font-family: impact;
@@ -20,3 +21,4 @@ h1 {
   aspect-ratio: 16 / 9;
   width: 100%;
 }
+
