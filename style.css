@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: aqua;
+}
+h1 {
+  font-family: impact;
+  color: #c11d64;
+}
+
+.video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
