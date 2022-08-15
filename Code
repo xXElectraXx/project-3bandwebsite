@@ -1,0 +1,47 @@
+<div class="container">
+  <div class="row">
+    <p>Dismantled</p>
+    <div class="col s12 m6">
+      <iframe
+        class="video"
+        src="https://www.youtube.com/embed/lsXfoyHrwk0"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+
+    <p>Last One Standing</p>
+    <div class="col s12 m6">
+      <iframe
+        class="video"
+        src="https://www.youtube.com/embed/yrRVzXn0xXo"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </div>
+
+  <div class="row">
+    <p>Supposed to Be</p>
+    <div class="col s12 m6">
+      <iframe
+        class="video"
+        src="https://www.youtube.com/embed/hO9qTXrXoe8"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+
+    <div class="col s12 m6">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique rerum
+      voluptatibus autem minus quam fugit, dicta unde sint, quo quis inventore
+      sed sunt. Similique vitae deserunt rerum, unde aliquam ab.
+    </div>
+  </div>
+</div>
