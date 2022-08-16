@@ -38,3 +38,7 @@ h2 {
 button {
   background-color: #c11d64;
 }
+
+.col img {
+  width: 100%;
+}

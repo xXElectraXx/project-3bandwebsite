@@ -1,47 +1,50 @@
 <div class="container">
   <div class="row">
-    <p>Dismantled</p>
     <div class="col s12 m6">
-      <iframe
-        class="video"
-        src="https://www.youtube.com/embed/lsXfoyHrwk0"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+      <img src="./images/YouCantKillUs-IFH.jpg">
     </div>
 
-    <p>Last One Standing</p>
     <div class="col s12 m6">
-      <iframe
-        class="video"
-        src="https://www.youtube.com/embed/yrRVzXn0xXo"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+      <ul>
+
+     <li> Supposed to Be</li>
+     <li>Demons</li>
+     <li>Pulse</li>
+     <li>The Magic</li>
+     <li>Happy Hurts</li>
+     <li>You Were Wrong</li>
+     <li>Too Loud</li>
+     <li>War</li>
+     <li>Here We Are</li>
+     <li>Get Well II</li>
+     <li>Invincible</li>
+     <li>You Cant Kill Us</li>
+    </ul>
     </div>
   </div>
 </div>
   <div class="row">
-    <p>Supposed to Be</p>
     <div class="col s12 m6">
-      <iframe
-        class="video"
-        src="https://www.youtube.com/embed/hO9qTXrXoe8"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+      <img src="./images/Amorphous-IFH.jpg">
+
     </div>
 
     <div class="col s12 m6">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique rerum
-      voluptatibus autem minus quam fugit, dicta unde sint, quo quis inventore
-      sed sunt. Similique vitae deserunt rerum, unde aliquam ab.
+     <ul>
+<li>Brittle</li>
+<li>Curse or Cure</li>
+<li>Enemies</li>
+<li>Panic Attacks</li>
+<li>Seeds</li>
+<li>Thirteen</li>
+<li>Background Sad</li>
+<li>Last One Standing</li>
+<li>Waste My Hate</li>
+<li>Impossibles and Obstacles</li>
+<li>Sticks and Stones</li>
+<li>Warrior</li>
+<li>Only Be a Story</li>
+     </ul>
     </div>
   </div>
 </div>
